@@ -36,7 +36,7 @@ class LongShortEquityFrameworkAlgorithm(QCAlgorithmFramework):
         ### user-defined inputs ---------------------------------------------------------------------------
 
         self.SetStartDate(2018, 1, 1)   # set start date
-        self.SetEndDate(2020, 10, 1)    # set end date
+        self.SetEndDate(2021, 1, 1)    # set end date
         self.SetCash(1000000)           # set strategy cash
         
         # select benchmark ticker
